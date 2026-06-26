@@ -1,9 +1,8 @@
 ## 👋 Olá! Conheça um pouco mais sobre mim:
 
-* 🎓 Engenharia de Software - UEM - 3°Semestre
+* 🎓 Engenharia de Software - UEM - 3° Semestre
 * 💼 Estagiário em Desenvolvimento de Sistemas - PLD/UEM
 * 💻 Desenvolvedor do SIGLattes - Sistema de Gestão e Indicadores de Currículos Lattes
-
 
 ## 🧠 Minha stack
 
